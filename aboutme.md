@@ -19,3 +19,9 @@ Here is my [github portfolio](https://polinalazebnikova.github.io/)
 
 ### Мотивирующая картинка
 ![Озеро Байкал зимой](philipp-trubchenko-gdqLz1LFsxI-unsplash.jpg "This is very exciting!")
+
+### Код Решение задачи 
+
+```python
+
+```
