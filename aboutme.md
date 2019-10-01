@@ -10,15 +10,15 @@
 ## Лазебникова Полина
 
 - Word (professional user)
-- TurboC (C++ basic level)
-- Writing code and technical specifications
-
-https://polinalazebnikova.github.io/
+- Writing code
+- Adobe Photoshop user (basic level)
 
 Here is my [github portfolio](https://polinalazebnikova.github.io/)
 
+Here is my [portfolio blogger](https://itvphisikelazebnikova.blogspot.com/)
+
 ### Мотивирующая картинка
-![Озеро Байкал зимой](philipp-trubchenko-gdqLz1LFsxI-unsplash.jpg "This is very exciting!")
+![Автор](PYWWJkdcKiY.jpg "Hi, it's me!")
 
 ### Код Решение задачи 
 
